@@ -11,6 +11,8 @@ url: "https://atwing.net"
 markdown: kramdown
 permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+includes:
+  - patterns
 
 colors:  #in hex code if not noted else
   primary: "#00b3fe" #"#F70031"
