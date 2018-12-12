@@ -1,1 +1,1 @@
-{% include css/style.css | prepend: site.baseurl %}
+{% include /css/style.css %}
